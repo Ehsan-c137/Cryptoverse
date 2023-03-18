@@ -20,7 +20,7 @@ $ cd Cryptoverse
 $ yarn
 
 # Run the app
-$ yarn dev
+$ yarn start
 ```
 
 > **Note**
