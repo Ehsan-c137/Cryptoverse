@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h2><a href='https://cryptocurrency-c137.netlify.app/' > Demo </a></h2>
 
-in this project has used <b> redux toolkit query </b> to fetch data from RapidApi, chart JS for charts and get cyptocurrency news & datas. <a href='https://ant.design/'>AntD</a> is used for desgin of components and <b>ReactRouterDom</b> for switching between pages.
+in this project has used <b> redux toolkit query </b> to fetch data from RapidApi,<b> chart JS </b> for charts and get cyptocurrency news & datas. <a href='https://ant.design/'>AntD</a> is used for desgin of components and <b>ReactRouterDom</b> for switching between pages.
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) and [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) installed on your computer. From your command line:
